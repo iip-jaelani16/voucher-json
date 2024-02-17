@@ -1,0 +1,21 @@
+{
+  "message": "Success",
+  "data": [
+    {
+      "duration": "7 HARI",
+      "speed": "1.5 MB/s",
+      "usage": "4 HP",
+      "price": "Rp. 60.000",
+      "quota": "UNLIMITED",
+      "isRecommended": false
+    },
+    {
+      "duration": "30 HARI",
+      "speed": "2 MB/s",
+      "usage": "4-5 HP",
+      "price": "Rp. 100.000",
+      "quota": "UNLIMITED",
+      "isRecommended": true
+    }
+  ]
+}
