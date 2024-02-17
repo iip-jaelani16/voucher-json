@@ -27,7 +27,8 @@
                     </li>
                 </ol>
             </div>
-            <button id="close-dialog"
+            <button onclick="closeDialog()"
+                    id="close-dialog"
                     class="btn-primary">
                 Tutup
             </button>
@@ -35,7 +36,7 @@
     </div>
 </div>
 <script>
-    document.getElementById('close-dialog').addEventListener('click', function () {
+    function closeDialog() {
         document.getElementById('dialog-banner').style.display = 'none';
-    });
+    }
 </script>
