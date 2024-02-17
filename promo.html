@@ -1,0 +1,41 @@
+<div class="modal-dialog"
+     id="dialog-banner">
+    <div class="container-dialog">
+        <div class="banner-image">
+            <img src="./img/banner.png" />
+        </div>
+        <div class="info-banner">
+            <p style="text-align: center;"><b>Syarat & Ketentuan</b></p>
+            <p>Berlaku untuk semua pembelian VOUCHER</p>
+            <div>
+                <p><b>Minimal Penukaran VOUCHER</b></p>
+                <ol>
+                    <li>
+                        Tukarkan 3 <i>VOUCHER</i> Dapatkan <i>VOUCHER</i> gratis <b>1 JAM</b>
+                    </li>
+                    <li>
+                        Tukarkan 5 <i>VOUCHER</i> Dapatkan <i>VOUCHER</i> gratis <b>2 JAM</b>
+                    </li>
+                    <li>
+                        Tukarkan 7 <i>VOUCHER</i> Dapatkan <i>VOUCHER</i> gratis <b>3 JAM</b>
+                    </li>
+                    <li>
+                        Tukarkan 10 <i>VOUCHER</i> Dapatkan <i>VOUCHER</i> gratis <b>6 JAM</b>
+                    </li>
+                    <li>
+                        Tukarkan 20 <i>VOUCHER</i> Dapatkan <i>VOUCHER</i> gratis <b>1 HARI</b>
+                    </li>
+                </ol>
+            </div>
+            <button id="close-dialog"
+                    class="btn-primary">
+                Tutup
+            </button>
+        </div>
+    </div>
+</div>
+<script>
+    document.getElementById('close-dialog').addEventListener('click', function () {
+        document.getElementById('dialog-banner').style.display = 'none';
+    });
+</script>
