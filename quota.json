@@ -2,7 +2,7 @@
   "message": "Success",
   "data": [
     {
-      "duration": "2 JAM",
+      "duration": "1 HARI",
       "speed": "2 MB/s",
       "usage": "1 HP",
       "price": "Rp. 3.000",
@@ -10,7 +10,7 @@
       "isRecommended": false
     },
     {
-      "duration": "3 JAM",
+      "duration": "2 HARI",
       "speed": "2 MB/s",
       "usage": "1 HP",
       "price": "Rp. 5.000",
@@ -18,10 +18,10 @@
       "isRecommended": false
     },
     {
-      "duration": "7 HARI",
+      "duration": "4 HARI",
       "speed": "2 MB/s",
       "usage": "1 HP",
-      "price": "Rp. 7.000",
+      "price": "Rp. 8.000",
       "quota": "15GB",
       "isRecommended": false
     },
