@@ -2,8 +2,16 @@
   "message": "Success",
   "data": [
     {
-      "duration": "2 MINGGU",
-      "speed": "5 MB/s",
+      "duration": "1 MINGGU",
+      "speed": "3 MB/s",
+      "usage": "2 HP",
+      "price": "Rp. 27.000",
+      "quota": "UNLIMITED",
+      "isRecommended": false
+    },
+    {
+      "duration": "3 MINGGU",
+      "speed": "3 MB/s",
       "usage": "2 HP",
       "price": "Rp. 50.000",
       "quota": "UNLIMITED",
