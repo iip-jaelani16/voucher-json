@@ -4,7 +4,7 @@
     {
       "duration": "7 HARI",
       "speed": "5 MB/s",
-      "usage": "4 HP",
+      "usage": "2 HP",
       "price": "Rp. 50.000",
       "quota": "UNLIMITED",
       "isRecommended": false
@@ -12,7 +12,7 @@
     {
       "duration": "30 HARI",
       "speed": "5 MB/s",
-      "usage": "5 HP",
+      "usage": "3 HP",
       "price": "Rp. 75.000",
       "quota": "UNLIMITED",
       "isRecommended": true
