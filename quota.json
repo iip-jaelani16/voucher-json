@@ -2,35 +2,27 @@
   "message": "Success",
   "data": [
     {
-      "duration": "1 HARI",
-      "speed": "2 MB/s",
-      "usage": "1 HP",
-      "price": "Rp. 3.000",
-      "quota": "5GB",
-      "isRecommended": false
-    },
-    {
       "duration": "2 HARI",
       "speed": "2 MB/s",
-      "usage": "1 HP",
-      "price": "Rp. 5.000",
-      "quota": "6GB",
+      "usage": "2 HP",
+      "price": "Rp. 2.500",
+      "quota": "3GB",
       "isRecommended": false
     },
     {
-      "duration": "4 HARI",
+      "duration": "3 HARI",
       "speed": "2 MB/s",
-      "usage": "1 HP",
-      "price": "Rp. 8.000",
-      "quota": "15GB",
+      "usage": "2 HP",
+      "price": "Rp. 4.000",
+      "quota": "6GB",
       "isRecommended": false
     },
     {
       "duration": "7 HARI",
       "speed": "2 MB/s",
-      "usage": "1 HP",
+      "usage": "2 HP",
       "price": "Rp. 10.000",
-      "quota": "30GB",
+      "quota": "10GB + 1GB",
       "isRecommended": true
     }
   ]
