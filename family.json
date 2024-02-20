@@ -2,7 +2,7 @@
   "message": "Success",
   "data": [
     {
-      "duration": "7 HARI",
+      "duration": "2 MINGGU",
       "speed": "5 MB/s",
       "usage": "2 HP",
       "price": "Rp. 50.000",
@@ -10,10 +10,10 @@
       "isRecommended": false
     },
     {
-      "duration": "30 HARI",
+      "duration": "1 BULAN",
       "speed": "5 MB/s",
       "usage": "3 HP",
-      "price": "Rp. 75.000",
+      "price": "Rp. 80.000",
       "quota": "UNLIMITED",
       "isRecommended": true
     }
