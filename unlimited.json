@@ -2,42 +2,18 @@
   "message": "Success",
   "data": [
     {
-      "duration": "1 JAM",
-      "speed": "750 KB/s",
+      "duration": "2 JAM",
+      "speed": "1 MB/s",
+      "usage": "1 HP",
+      "price": "Rp. 500",
+      "quota": "UNLIMITED",
+      "isRecommended": false
+    },
+    {
+      "duration": "3 JAM",
+      "speed": "1 MB/s",
       "usage": "1 HP",
       "price": "Rp. 1.000",
-      "quota": "UNLIMITED",
-      "isRecommended": false
-    },
-    {
-      "duration": "2 JAM",
-      "speed": "750 KB/s",
-      "usage": "1 HP",
-      "price": "Rp. 1.500",
-      "quota": "UNLIMITED",
-      "isRecommended": false
-    },
-    {
-      "duration": "3 JAM",
-      "speed": "750 KB/s",
-      "usage": "1 HP",
-      "price": "Rp. 2.500",
-      "quota": "UNLIMITED",
-      "isRecommended": false
-    },
-    {
-      "duration": "2 JAM",
-      "speed": "1 MB/s",
-      "usage": "1 HP",
-      "price": "Rp. 2.000",
-      "quota": "UNLIMITED",
-      "isRecommended": false
-    },
-    {
-      "duration": "3 JAM",
-      "speed": "1 MB/s",
-      "usage": "1 HP",
-      "price": "Rp. 3.000",
       "quota": "UNLIMITED",
       "isRecommended": false
     },
@@ -45,7 +21,7 @@
       "duration": "6 JAM",
       "speed": "1 MB/s",
       "usage": "1 HP",
-      "price": "Rp. 4.000",
+      "price": "Rp. 1.500",
       "quota": "UNLIMITED",
       "isRecommended": true
     },
@@ -53,7 +29,7 @@
       "duration": "1 HARI",
       "speed": "1 MB/s",
       "usage": "1 HP",
-      "price": "Rp. 5.000",
+      "price": "Rp. 2.000",
       "quota": "UNLIMITED",
       "isRecommended": true
     }
