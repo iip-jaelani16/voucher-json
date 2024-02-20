@@ -4,7 +4,7 @@
     {
       "duration": "2 HARI",
       "speed": "2 MB/s",
-      "usage": "2 HP",
+      "usage": "1 HP",
       "price": "Rp. 2.500",
       "quota": "3GB",
       "isRecommended": false
@@ -12,7 +12,7 @@
     {
       "duration": "3 HARI",
       "speed": "2 MB/s",
-      "usage": "2 HP",
+      "usage": "1 HP",
       "price": "Rp. 4.000",
       "quota": "6GB",
       "isRecommended": false
@@ -20,7 +20,7 @@
     {
       "duration": "7 HARI",
       "speed": "2 MB/s",
-      "usage": "2 HP",
+      "usage": "1 HP",
       "price": "Rp. 10.000",
       "quota": "10GB + 1GB",
       "isRecommended": true
