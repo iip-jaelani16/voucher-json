@@ -2,14 +2,6 @@
   "message": "Success",
   "data": [
     {
-      "duration": "2 JAM",
-      "speed": "1 MB/s",
-      "usage": "1 HP",
-      "price": "Rp. 1000",
-      "quota": "UNLIMITED",
-      "isRecommended": false
-    },
-    {
       "duration": "3 JAM",
       "speed": "1 MB/s",
       "usage": "1 HP",
