@@ -3,7 +3,7 @@
   "data": [
     {
       "duration": "1 MINGGU",
-      "speed": "3 MB/s",
+      "speed": "1 MB/s",
       "usage": "2 HP",
       "price": "Rp. 27.000",
       "quota": "UNLIMITED",
@@ -11,7 +11,7 @@
     },
     {
       "duration": "2 MINGGU",
-      "speed": "3 MB/s",
+      "speed": "2 MB/s",
       "usage": "2 HP",
       "price": "Rp. 40.000",
       "quota": "UNLIMITED",
