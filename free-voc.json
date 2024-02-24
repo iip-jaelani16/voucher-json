@@ -1,6 +1,6 @@
 {
-  "tabel": {
-    "baris": [
+
+    "data": [
       {
         "nama": "FRK2F7",
         "kata sandi": "3246"
@@ -42,5 +42,4 @@
         "kata sandi": "2986"
       }
     ]
-  }
 }
