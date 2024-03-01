@@ -3,7 +3,8 @@
   "data": [
     {
       "duration": "3 JAM",
-      "speed": "1 MB/s",
+      "speed": "∞ MB/s",
+      "comment": "1 MB/s",
       "usage": "1 HP",
       "price": "Rp. 2.000",
       "quota": "UNLIMITED",
@@ -11,7 +12,8 @@
     },
     {
       "duration": "6 JAM",
-      "speed": "1 MB/s",
+      "speed": "∞ MB/s",
+      "comment": "1 MB/s",
       "usage": "1 HP",
       "price": "Rp. 3.000",
       "quota": "UNLIMITED",
@@ -19,7 +21,8 @@
     },
     {
       "duration": "1 HARI",
-      "speed": "1 MB/s",
+      "speed": "∞ MB/s",
+      "comment": "1 MB/s",
       "usage": "1 HP",
       "price": "Rp. 4.500",
       "quota": "UNLIMITED",
