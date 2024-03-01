@@ -3,7 +3,8 @@
   "data": [
     {
       "duration": "2 HARI",
-      "speed": "1 MB/s",
+      "speed": "∞ MB/s",
+      "comment_speed": "1 MB/s",
       "usage": "1 HP",
       "price": "Rp. 2.500",
       "quota": "∞ GB",
@@ -12,7 +13,8 @@
     },
     {
       "duration": "3 HARI",
-      "speed": "1 MB/s",
+      "speed": "∞ MB/s",
+      "comment_speed": "1 MB/s",
       "usage": "1 HP",
       "price": "Rp. 4.000",
       "quota": "∞ GB",
@@ -21,7 +23,8 @@
     },
     {
       "duration": "7 HARI",
-      "speed": "1 MB/s",
+      "speed": "∞ MB/s",
+      "comment_speed": "1 MB/s",
       "usage": "1 HP",
       "price": "Rp. 10.000",
       "quota": "∞ GB",
