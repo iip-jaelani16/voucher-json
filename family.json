@@ -3,7 +3,8 @@
   "data": [
     {
       "duration": "1 MINGGU",
-      "speed": "1 MB/s",
+      "speed": "∞ MB/s",
+      "comment": "1 MB/s",
       "usage": "2 HP",
       "price": "Rp. 27.000",
       "quota": "UNLIMITED",
@@ -11,7 +12,8 @@
     },
     {
       "duration": "2 MINGGU",
-      "speed": "2 MB/s",
+      "speed": "∞ MB/s",
+      "comment": "2 MB/s",
       "usage": "2 HP",
       "price": "Rp. 40.000",
       "quota": "UNLIMITED",
@@ -19,7 +21,8 @@
     },
     {
       "duration": "1 BULAN",
-      "speed": "3 MB/s + 1 MB/s",
+      "speed": "∞ MB/s",
+      "comment": "3 MB/s + 1 MB/s",
       "usage": "3 HP",
       "price": "Rp. 70.000",
       "quota": "UNLIMITED",
