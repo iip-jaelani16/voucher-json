@@ -8,7 +8,8 @@
       "usage": "1 HP",
       "price": "Rp. 2.000",
       "quota": "UNLIMITED",
-      "isRecommended": false
+      "isRecommended": false,
+      "promo": "Rp. 1.000",
     },
     {
       "duration": "6 JAM",
@@ -17,7 +18,8 @@
       "usage": "1 HP",
       "price": "Rp. 3.000",
       "quota": "UNLIMITED",
-      "isRecommended": false
+      "isRecommended": false,
+      "promo": "Rp. 2.000",
     },
     {
       "duration": "1 HARI",
@@ -26,7 +28,8 @@
       "usage": "1 HP",
       "price": "Rp. 4.500",
       "quota": "UNLIMITED",
-      "isRecommended": true
+      "isRecommended": true,
+      "promo": "Rp. 3.000",
     }
   ]
 }
