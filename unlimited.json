@@ -9,7 +9,7 @@
       "price": "Rp. 2.000",
       "quota": "UNLIMITED",
       "isRecommended": false,
-      "promo": "Rp. 1.000"
+      "promo": false
     },
     {
       "duration": "6 JAM",
@@ -19,7 +19,7 @@
       "price": "Rp. 3.000",
       "quota": "UNLIMITED",
       "isRecommended": false,
-      "promo": "Rp. 2.000"
+      "promo": "Rp. 2.500"
     },
     {
       "duration": "1 HARI",
