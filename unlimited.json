@@ -26,10 +26,10 @@
       "speed": "∞ MB/s",
       "comment": "1 MB/s",
       "usage": "1 HP",
-      "price": "Rp. 7.500",
+      "price": "Rp. 10.000",
       "quota": "UNLIMITED",
       "isRecommended": true,
-      "promo": false
+      "promo": "Rp. 7.500"
     }
   ]
 }
